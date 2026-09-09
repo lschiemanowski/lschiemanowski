@@ -1,10 +1,11 @@
 ## Welcome to Lothar's GitHub
 
 
+<!--
 ### Projects
 
 - **[stratic](https://github.com/lschiemanowksi/stratic)**
-
+-->
 
 ### Demos
 
