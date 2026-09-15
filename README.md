@@ -10,7 +10,7 @@
 ### Demos
 
 - **[dsa](https://github.com/lschiemanowski/dsa)** A small proof of concept for using LLMs to answer data science questions about a DuckDB database in a secure manner, by splitting responsibilities to a strong, hosted model, and a weaker local model. The user asks the strong, hosted model a question about the database. Using a description of the database and synthetic examples, the strong model prepares a concrete and structured question - potentially with a detailed analysis plan -, which is then answered by the weaker model in a special agentic harness with access to the DuckDB database.
-- **[formalizer](https://github.com/lschiemanowski/formalizer)** is an agent, which attempts to prove a statement in Lean. Primarily a simple example to practice agent engineering, as documented in my blog: [evaluations](https://lschiemanowski.github.io/blog/prover_1.html) and more posts on measuring tool effectiveness and context compression coming.
+- **[formalizer](https://github.com/lschiemanowski/formalizer)** is an agent, which attempts to prove a statement in Lean. Primarily a simple example to practice agent engineering, as documented in my blog: [basic design and evaluation](https://lschiemanowski.github.io/blog/prover_1.html) and more posts on measuring tool effectiveness and context compression coming.
 
 
 ### Research code
