@@ -1,11 +1,10 @@
 ## Welcome to Lothar's GitHub
 
 
-<!--
+
 ### Projects
 
-- **[stratic](https://github.com/lschiemanowksi/stratic)**
--->
+- **[stratic](https://github.com/lschiemanowksi/stratic)** is a tool for working with hierarchical descriptions of a code base generated and updated by a coding agent.
 
 ### Demos
 
