@@ -4,7 +4,7 @@
 
 ### Projects
 
-- **[stratic](https://github.com/lschiemanowksi/stratic)** is a tool for working with hierarchical descriptions of a code base generated and updated by a coding agent.
+- **[stratic](https://github.com/lschiemanowski/stratic)** is a tool for working with hierarchical descriptions of a code base generated and updated by a coding agent.
 
 ### Demos
 
