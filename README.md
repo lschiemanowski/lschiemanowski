@@ -5,7 +5,7 @@
 ### Projects
 
 - **[stratic](https://github.com/lschiemanowski/stratic)** is a tool for working with hierarchical descriptions of a code base generated and updated by a coding agent.
-- **[PTXLean](https://github.com/lschiemanowski/ptxlean)** is a project to formalize Nvidia's PTX ISA in Lean. Very early alpha.
+- **[PTXLean](https://github.com/lschiemanowski/ptxlean)** is a project to formalize Nvidia's PTX ISA in Lean. Very early alpha. See also **[https://github.com/lschiemanowski/ptxlean_relu_layer](https://github.com/lschiemanowski/ptxlean_relu_layer)** for a less ambitious formalization of a specific kernel.
 
 ### Demos
 
